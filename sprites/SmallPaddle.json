@@ -1,0 +1,42 @@
+{
+    "spriteSheetURL": "./graphics/breakout-spritesheet.png",
+    "size":[32,16],
+    "sprites":[
+        {
+            "name":"p_blue_1",
+            "x":0,
+            "y":64,
+            "scalefactor":3,
+            "colorKey":-1
+        },
+        {
+            "name":"p_green_1",
+            "x":0,
+            "y":80,
+            "scalefactor":3,
+            "colorKey":-1
+        },
+        {
+            "name":"p_purple_1",
+            "x":0,
+            "y":96,
+            "scalefactor":3,
+            "colorKey":-1
+        },
+        {
+            "name":"p_pink_1",
+            "x":0,
+            "y":112,
+            "scalefactor":3,
+            "colorKey":-1
+        },
+        {
+            "name":"p_gold_1",
+            "x":0,
+            "y":128,
+            "scalefactor":3,
+            "colorKey":-1
+        }                ]
+}
+
+

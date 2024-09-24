@@ -1,0 +1,41 @@
+{
+    "spriteSheetURL": "./graphics/breakout-spritesheet.png",
+    "size":[16,16],
+    "sprites":[
+        {
+            "name":"powerups_widepaddle",
+            "x":0,
+            "y":144,
+            "scalefactor":2,
+            "colorKey":-1
+        },
+        {
+            "name":"powerups_catchnet",
+            "x":16,
+            "y":144,
+            "scalefactor":2,
+            "colorKey":-1
+        },
+		{
+            "name":"powerups_laser",
+            "x":32,
+            "y":144,
+            "scalefactor":2,
+            "colorKey":-1
+        },
+        {
+            "name":"powerups_heart",
+            "x":48,
+            "y":144,
+            "scalefactor":2,
+            "colorKey":-1
+        },
+        {
+            "name":"powerups_ghostball",
+            "x":64,
+            "y":144,
+            "scalefactor":2,
+            "colorKey":-1
+        }
+        ]
+}

@@ -1,0 +1,42 @@
+{
+    "spriteSheetURL": "./graphics/breakout-spritesheet.png",
+    "size":[8,8],
+    "sprites":[
+        {
+            "name":"blue_ball",
+            "x":96,
+            "y":48,
+            "scalefactor":3,
+            "colorKey":-1
+        },
+        {
+            "name":"green_ball",
+            "x":104,
+            "y":48,
+            "scalefactor":3,
+            "colorKey":-1
+        },
+        {
+            "name":"purple_ball",
+            "x":112,
+            "y":48,
+            "scalefactor":3,
+            "colorKey":-1
+        },
+        {
+            "name":"pink_ball",
+            "x":120,
+            "y":48,
+            "scalefactor":3,
+            "colorKey":-1
+        },
+		{
+            "name":"ghost_ball",
+            "x":96,
+            "y":56,
+            "scalefactor":3,
+            "colorKey":-1
+        }]
+}
+
+

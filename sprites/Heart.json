@@ -1,0 +1,22 @@
+{
+    "spriteSheetURL": "./graphics/breakout-spritesheet.png",
+    "size":[10,9],
+    "sprites":[
+        {
+            "name":"heart",
+            "x":128,
+            "y":48,
+            "scalefactor":3,
+            "colorKey":-1
+        },
+        {
+            "name":"empty_heart",
+            "x":138,
+            "y":48,
+            "scalefactor":3,
+            "colorKey":-1
+        }
+        ]
+}
+
+
